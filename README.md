@@ -75,4 +75,4 @@ When the frontend starts, you are by default using Alice's account. Therefore yo
 
 Now if you use the account switcher on the top-right corner, you can impersonate any of her friends. They will all see the ReadSecretMessages component. By clicking on the button, you read and decrypt the secret messages Alice sent you.
 
-[![Check out this application in action](https://img.youtube.com/vi/yUjfwlTgEA8/0.jpg)](https://www.youtube.com/watch?v=yUjfwlTgEA8)
+[![Check out this application in action](https://img.youtube.com/vi/yUjfwlTgEA8/5.jpg)](https://www.youtube.com/watch?v=yUjfwlTgEA8)
