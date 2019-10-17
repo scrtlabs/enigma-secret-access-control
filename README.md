@@ -6,7 +6,7 @@
 
 This application uses enigma's secret contracts to create "access control" for data, such that only specific users are permissioned to access that data. 
 
-Key Features:
+##Key Features:
 
 Using the Enigma-JS client to encrypt and transmit user A’s messages to the secret contract, as well as 2 or more “whitelisted” recipient addresses.
 Using the Enigma-JS client to encrypt and transmit whitelisted user’s requests for the data to the secret contract, to receive the correct output and successfully decrypt the message.
