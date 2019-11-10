@@ -82,6 +82,7 @@ module.exports = async function(deployer, network, accounts) {
     },
   );
   enigma.admin();
+  enigma.setTaskKeyPair('cupcake');
 
   // Deploy your Smart and Secret contracts below this point:
 
