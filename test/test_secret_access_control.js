@@ -64,6 +64,7 @@ contract('SecretAccessControl', accounts => {
       },
     )
     enigma.admin()
+    enigma.setTaskKeyPair('cupcake');
     contractAddr = fs.readFileSync('test/secret_access_control.txt', 'utf-8')
   })
 
